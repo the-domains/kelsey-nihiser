@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A room to snooze in
-datePublished: '2016-03-09T17:17:25.545Z'
-dateModified: '2016-03-09T02:16:16.877Z'
+datePublished: '2016-03-09T17:42:29.830Z'
+dateModified: '2016-03-09T17:42:06.154Z'
 author: []
 title: Bedroom
 sourcePath: _posts/2016-03-09-a-room-to-snooze-in.md
@@ -23,5 +23,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-## Bedroom
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0270fed6df0ce4e61e7c40385131fd45d98c03f8.png)
