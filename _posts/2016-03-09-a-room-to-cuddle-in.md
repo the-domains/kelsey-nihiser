@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:d4b09b1b-e12e-42e1-af35-d7fbd9a71254'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-09T01:39:49.141Z'
+dateModified: '2016-03-09T01:38:55.960Z'
 author: []
-datePublished: '2016-03-09T01:33:16.997Z'
-publisher:
-  domain: ''
-  name: ''
 title: A room to cuddle in
-dateModified: '2016-03-09T01:30:12.150Z'
 sourcePath: _posts/2016-03-09-a-room-to-cuddle-in.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: a-room-to-cuddle-in/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
