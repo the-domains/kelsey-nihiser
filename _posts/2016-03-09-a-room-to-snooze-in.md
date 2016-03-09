@@ -1,21 +1,27 @@
 ---
-description: ''
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:4f324760-da74-49a1-a797-81f12f3b636f'
+inLanguage: null
+starred: false
+keywords: []
+description: A room to snooze in
+datePublished: '2016-03-09T17:17:25.545Z'
+dateModified: '2016-03-09T02:16:16.877Z'
 author: []
-datePublished: '2016-03-09T01:33:16.868Z'
-publisher:
-  domain: ''
-  name: ''
-title: A room to snooze in
-dateModified: '2016-03-09T01:30:36.649Z'
+title: Bedroom
 sourcePath: _posts/2016-03-09-a-room-to-snooze-in.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: a-room-to-snooze-in/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# A room to snooze in
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65475003-3a32-457e-9c27-03816e80e62f.png)
+## Bedroom
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0270fed6df0ce4e61e7c40385131fd45d98c03f8.png)
