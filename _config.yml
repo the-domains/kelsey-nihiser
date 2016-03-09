@@ -1,6 +1,6 @@
 name: Kelsey Nihiser
 favicon: null
-layout_spectrum: 0.504
+layout_spectrum: 0.5008
 typography_spectrum: 0.31299
 title: Cozy as Fuck
 cta:
@@ -22,8 +22,8 @@ color:
     - '#a2296b'
     - '#318583'
     - '#b0bd73'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.75
-  saturation: 0.25
-  rhythmicContrast: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0
 purpose: []
