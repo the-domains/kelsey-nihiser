@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kelsey Nihiser]]></title>
         <description><![CDATA[Kelsey Nihiser]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kelsey-nihiser/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 21:15:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 01:33:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kelsey-nihiser/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A room to snooze in]]></title>
+            <description><![CDATA[<article><h1>A room to snooze in</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0270fed6df0ce4e61e7c40385131fd45d98c03f8.png"></article>]]></description>
+            <link>https://thegrid.ai/kelsey-nihiser/a-room-to-snooze-in/index.html</link>
+            <guid isPermaLink="false">0dba61da-8986-4ff6-b82f-e886bd974b3d</guid>
+            <pubDate>Wed, 09 Mar 2016 01:33:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/192183f8-bcff-44f0-b6ca-fc6b600b0cdb.png">]]></description>
-            <link>undefined9a6125ae-a213-4d12-a6f3-8db5bbd6d28f/index.html</link>
+            <link>https://thegrid.ai/kelsey-nihiser/9a6125ae-a213-4d12-a6f3-8db5bbd6d28f/index.html</link>
             <guid isPermaLink="false">9a6125ae-a213-4d12-a6f3-8db5bbd6d28f</guid>
             <pubDate>Tue, 08 Mar 2016 21:14:55 GMT</pubDate>
         </item>
