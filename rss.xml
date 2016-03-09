@@ -4,8 +4,15 @@
         <description><![CDATA[Cozy as Fuck]]></description>
         <link>https://thegrid.ai/kelsey-nihiser/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 02:30:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kelsey-nihiser/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bathroom]]></title>
+            <description><![CDATA[<h1>Bathroom</h1>]]></description>
+            <link>urn:uuid:74e65977-5fa1-4d73-95cb-5ce40ce29e37</link>
+            <guid isPermaLink="false">ff710e99-93ec-4adc-ab8e-33cf49510869</guid>
+            <pubDate>Wed, 09 Mar 2016 02:29:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bathroom]]></title>
             <description><![CDATA[<article><h1>Bathroom</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9bfba751fe5ddb84bdba0b5add98f433d2989dc.png"></article>]]></description>
