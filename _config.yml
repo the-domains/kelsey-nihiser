@@ -1,29 +1,41 @@
-name: Kelsey Nihiser
-favicon: null
-layout_spectrum: 0.5008
-typography_spectrum: 0.31299
 title: Cozy as Fuck
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3552631
+  brandStrength: 0.6146616
+  lightness: 0.8239349
+  brandColors:
+    - '#FFFFFF'
+    - '#0E0E10'
+    - '#7F7C75'
+    - '#E64C54'
+    - '#A32429'
+  rhythmicContrast: 0.8088973
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Kelsey Nihiser
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#312965'
-    - '#fdf595'
-    - '#a2296b'
-    - '#318583'
-    - '#b0bd73'
-  brandStrength: 0.1875
-  lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.31299
+layout_spectrum: 0.2581454
